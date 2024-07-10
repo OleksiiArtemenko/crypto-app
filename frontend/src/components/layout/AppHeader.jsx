@@ -59,17 +59,22 @@ export default function AppHeader() {
         />
         <Button type="primary" onClick = {() => setDrawer(true)}>Add Asset</Button>
 
-        <Modal open={modal} onOk={() => setModal(false)} onCancel={() => setModal(false)}>
+        <Modal open={modal} onOk={() => setModal(false)} onCancel={() => setModal(false)}
+               footer={[
+            <Button key="submit" type="primary" onClick={() => setModal(false)}>
+                OK
+            </Button>,
+        ]}>
             <CoinInfoModal coin = {coin}/>
         </Modal>
 
         <Drawer
             width = {600}
-            title="Add Asset"
+            title="Add Aset"
             onClose={() => setDrawer(false)}
             open={drawer}
             destroyOnClose>
-            <AddAssetForm onClose = {() => setModal(false)} />
+            <AddAssetForm onClose = {() => setDrawer(false)} />
         </Drawer>
     </Layout.Header>)
 }

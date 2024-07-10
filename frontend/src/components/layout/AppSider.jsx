@@ -44,19 +44,5 @@ return       (<Layout.Sider width="25%" style={siderStyle}>
             />
         </Card>
     ))}
-
-
-    {/*<Card>
-        <Statistic
-            title="Idle"
-            value={9.3}
-            precision={2}
-            valueStyle={{
-                color: '#cf1322',
-            }}
-            prefix={<ArrowDownOutlined />}
-            suffix="%"
-        />
-    </Card>*/}
 </Layout.Sider>)
 }
