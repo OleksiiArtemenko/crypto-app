@@ -5,45 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0188a01d-4c11-4ab7-8574-5bec284f648f" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/react-crypto-initial.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/dist/assets/index-UhfVTeeR.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/dist/assets/index-jo42jkq0.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/dist/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/dist/my-logo.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/dist/vite.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/package-lock.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/public/vite.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/src/App.jsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/src/api.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/src/components/AddAssetForm.jsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/src/components/AssetsTable.jsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/src/components/CoinInfo.jsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/src/components/CoinInfoModal.jsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/src/components/PortfolioChart.jsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/src/components/layout/AppContent.jsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/src/components/layout/AppHeader.jsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/src/components/layout/AppLayout.jsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/src/components/layout/AppSider.jsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/src/context/crypto-context.jsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/src/cryptoassets.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/src/cryptodata.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/src/index.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/src/main.jsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/src/updateData.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/src/utils.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/vite.config.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server.js" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/.github/workflows/deploy.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vite.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/vite.config.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -147,7 +111,7 @@
       <workItem from="1728748520593" duration="112000" />
       <workItem from="1728748641629" duration="1180000" />
       <workItem from="1728749857044" duration="31000" />
-      <workItem from="1728749947551" duration="307000" />
+      <workItem from="1728749947551" duration="963000" />
     </task>
     <servers />
   </component>
