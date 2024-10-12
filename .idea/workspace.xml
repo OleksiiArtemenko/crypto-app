@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0188a01d-4c11-4ab7-8574-5bec284f648f" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/react-crypto-initial.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/dist/assets/index-UhfVTeeR.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/dist/assets/index-jo42jkq0.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/dist/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/dist/my-logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/dist/vite.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/public/vite.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/App.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/api.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/components/AddAssetForm.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/components/AssetsTable.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/components/CoinInfo.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/components/CoinInfoModal.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/components/PortfolioChart.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/components/layout/AppContent.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/components/layout/AppHeader.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/components/layout/AppLayout.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/components/layout/AppSider.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/context/crypto-context.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/cryptoassets.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/cryptodata.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/main.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/updateData.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/utils.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/vite.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server.js" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="Dockerfile" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;OleksiiArtemenko&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/OleksiiArtemenko/crypto-app.git&quot;,
+    &quot;accountId&quot;: &quot;8ca5c4f7-9c21-438a-9648-ade2dc0b797a&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2indY91V24cHrtF2rPYSvFWFlsb" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/orela/WebstormProjects/react-music-player&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;C:\\Program Files\\JetBrains\\WebStorm 2024.1.5\\plugins\\javascript-plugin\\jsLanguageServicesImpl\\external&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\orela\WebstormProjects\react-crypto-initial\frontend\dist" />
+      <recent name="C:\Users\orela\WebstormProjects\react-crypto-initial\frontend\dist\assets" />
+      <recent name="C:\Users\orela\WebstormProjects\react-crypto-initial\frontend\src\assets\logo" />
+      <recent name="C:\Users\orela\WebstormProjects\react-crypto-initial\frontend" />
+      <recent name="C:\Users\orela\WebstormProjects\react-crypto-initial\src\components" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-WS-241.18034.50" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0188a01d-4c11-4ab7-8574-5bec284f648f" name="Changes" comment="" />
+      <created>1720130319171</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1720130319171</updated>
+      <workItem from="1720130320202" duration="2295000" />
+      <workItem from="1720191030073" duration="14107000" />
+      <workItem from="1720266161164" duration="4146000" />
+      <workItem from="1720365496618" duration="12933000" />
+      <workItem from="1720437305850" duration="14974000" />
+      <workItem from="1720530247894" duration="10492000" />
+      <workItem from="1720638800685" duration="7005000" />
+      <workItem from="1720681377292" duration="1414000" />
+      <workItem from="1720689730059" duration="21858000" />
+      <workItem from="1720800289414" duration="9000" />
+      <workItem from="1721124304903" duration="6134000" />
+      <workItem from="1721234917033" duration="651000" />
+      <workItem from="1721235969888" duration="43000" />
+      <workItem from="1721236050586" duration="16000" />
+      <workItem from="1721236095753" duration="791000" />
+      <workItem from="1721237536662" duration="350000" />
+      <workItem from="1722071473081" duration="9000" />
+      <workItem from="1722071490429" duration="55000" />
+      <workItem from="1722071560203" duration="2000" />
+      <workItem from="1722071578443" duration="2000" />
+      <workItem from="1724754363849" duration="25000" />
+      <workItem from="1724848940914" duration="125000" />
+      <workItem from="1728747593814" duration="718000" />
+      <workItem from="1728748345010" duration="109000" />
+      <workItem from="1728748461868" duration="50000" />
+      <workItem from="1728748520593" duration="112000" />
+      <workItem from="1728748641629" duration="1180000" />
+      <workItem from="1728749857044" duration="31000" />
+      <workItem from="1728749947551" duration="307000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

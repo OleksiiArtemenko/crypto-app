@@ -1,6 +1,6 @@
 import {useRef, useState} from 'react'
 import { useCrypto } from '../context/crypto-context.jsx'
-import {Flex, Select, Space, Typography, Divider, Form, InputNumber, Button, DatePicker, Result} from "antd";
+import { Select, Space, Divider, Form, InputNumber, Button, DatePicker, Result} from "antd";
 import CoinInfo from "./CoinInfo.jsx";
 
 const validateMessages = {
